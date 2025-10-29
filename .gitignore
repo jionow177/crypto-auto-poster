@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.env.*
+*.env
+*.env.*
+venv/
+.env/
+.venv/
+ENV/
+
+# Packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Test/coverage
+.tox/
+.nox/
+.coverage*
+.pytest_cache/
+
+# Editors/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs and local data
+*.log
+logs/
+*.sqlite
+*.db
+
+# Other caches
+.cache/
+__cache__/
